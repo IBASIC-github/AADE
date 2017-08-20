@@ -1,5 +1,5 @@
 # AADE
-The AADE models
+
 The python implementation of AADE models as described in the paper:
 Associated Activation-Driven Enrichment: Understanding Implicit Information from a Cognitive Perspective
 
